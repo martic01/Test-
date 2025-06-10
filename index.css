@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.box{
+  height: 20vmin;
+  width: 20vmin;
+  padding-left: 20px;
+  background-color: red;
+  margin: auto;
+  align-content: center;
+  text-align: center;
+}
